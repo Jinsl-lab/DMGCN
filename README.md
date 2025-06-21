@@ -14,4 +14,4 @@ The Stereo-seq data comprises 19,527 spots and 27,106 genes, with 12 regions man
 The MERFISH data comprises six samples, with 254 genes and 5-7 regions manually annotated. The samples 1 and 3 were selected to test the performance. The data links to https://doi.brainimagelibrary.org/doi/10.35077/g.21.  
   
 # Installation
-## Please refer to the "requirements.txt" to install the environment, and run the code through the Jupyter lab.  
+Please refer to the "requirements.txt" to install the environment, and run the code through the Jupyter lab.  
