@@ -1,5 +1,4 @@
 # DMGCN：Spatial domain identification method based on multi-view graph convolutional network and contrastive learning  
-## The code and parameter configuration of DMGCN 
 **The data which are testd in DMGCN will be shared through URL as follows:**  
   
 **(1) Human dorsolateral pre-frontal cortex (DLPFC):**  
