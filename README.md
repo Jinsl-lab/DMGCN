@@ -19,7 +19,6 @@ If you are confused in the data availbility, please contact us through email and
   
 # Installation
 ##Please refer to the "requirements.txt" to install the environment, and run the code in Jupyter lab.  
-  
 ##We present some relative packages with specific version as follows:
   
 python==3.8.0
@@ -44,7 +43,7 @@ torch-geometric==2.1.0
   
 torchvision==0.12.0+cu113
   
-##For the other modules of Pytorch, we recommend to install them in Python 3.8 and Linux via this link https://pytorch-geometric.com/whl/, and these modules' version as follows:
+**For the other modules of Pytorch, we recommend to install them in Python 3.8 and Linux via this link https://pytorch-geometric.com/whl/, and these modules' version as follows:**
   
 torch-cluster==1.6.9
   
