@@ -13,9 +13,7 @@ The Stereo-seq data comprises 19,527 spots and 27,106 genes, with 12 regions man
 **(4) Mouse Brain:**  
 The MERFISH data comprises six samples, with 254 genes and 5-7 regions manually annotated. The samples 1 and 3 were selected to test the performance. The data links to https://doi.brainimagelibrary.org/doi/10.35077/g.21.  
   
-The DLPFC and MERFISH could be found in the "data", and HBC and MOSTA are recommended to download through the links.
-  
-If you are confused in the data availbility, please contact us through email and we will try to solve your problems.
+The DLPFC and MERFISH could be found in the "data", and HBC and MOSTA are recommended to download through the links. If you are confused in the data availbility, please contact us through email and we will try to solve your problems.
   
 # Installation
 ### Please refer to the "requirements.txt" to install the environment, and run the code in Jupyter lab.We present some relative packages with specific version as follows:
