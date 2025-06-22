@@ -18,4 +18,38 @@ The DLPFC and MERFISH could be found in the "data", and HBC and MOSTA are recomm
 If you are confused in the data availbility, please contact us through email and we will try to solve your problems.
   
 # Installation
-Please refer to the "requirements.txt" to install the environment, and run the code through the Jupyter lab.  
+Please refer to the "requirements.txt" to install the environment, and run the code in Jupyter lab.  
+  
+We present some relative packages with specific version as follows:
+  
+python==3.8.0
+  
+scanpy==1.9.8
+  
+anndata==0.9.2
+  
+h5py==3.7.0
+  
+numpy==1.22.4
+  
+numba==0.58.1
+  
+pandas==1.5.3
+  
+scikit-learn==1.3.2
+  
+torch==1.11.0+cu113
+  
+torch-geometric==2.1.0
+  
+torchvision==0.12.0+cu113
+  
+For the other modules of Pytorch, we recommend to install them in Python 3.8 and Linux via this link https://pytorch-geometric.com/whl/, and these modules' version as follows:
+  
+torch-cluster==1.6.9
+  
+torch-scatter==2.0.9
+  
+torch-sparse==0.6.13
+  
+torch-spline-conv==1.2.1
