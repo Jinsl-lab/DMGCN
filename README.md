@@ -1,5 +1,5 @@
 # DMGCN：Spatial domain identification method based on multi-view graph convolutional network and contrastive learning  
-**The data which are testd in DMGCN will be shared through URL as follows:**  
+### **The data which are testd in DMGCN will be shared through URL as follows:**  
   
 **(1) Human dorsolateral pre-frontal cortex (DLPFC):**  
 The 10x Visium dataset comprises 12 slices, and all slices were manually annotated. The article presents the experiment result of slice 151507, with 4,221 spots and 33,538 genes, and 151674, with 3635 spots and 33,538 genes. The data links https://www.10xgenomics.com/datasets/visium-hd-cytassist-gene-expressionto-libraries-of-human-crc.  
@@ -42,7 +42,7 @@ torch-geometric==2.1.0
   
 torchvision==0.12.0+cu113
   
-### **For the other modules of Pytorch, we recommend to install them in Python 3.8 and Linux via this link https://pytorch-geometric.com/whl/, and these modules' version as follows:**
+### **For the other modules of Pytorch, we recommend to install them manually in Python 3.8 and Linux via this link https://pytorch-geometric.com/whl/, and these modules' version as follows:**
   
 torch-cluster==1.6.9
   
