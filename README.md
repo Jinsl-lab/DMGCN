@@ -18,8 +18,8 @@ The DLPFC and MERFISH could be found in the "data", and HBC and MOSTA are recomm
 If you are confused in the data availbility, please contact us through email and we will try to solve your problems.
   
 # Installation
-##Please refer to the "requirements.txt" to install the environment, and run the code in Jupyter lab.  
-##We present some relative packages with specific version as follows:
+## Please refer to the "requirements.txt" to install the environment, and run the code in Jupyter lab.  
+## We present some relative packages with specific version as follows:
   
 python==3.8.0
   
